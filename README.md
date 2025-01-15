@@ -1,2 +1,2 @@
 # News-Clasification
-News Clasification using different Machine Learning Algorithm
+News Clasification using Multinomial Naive Bayes Algorithm
